@@ -36,4 +36,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/ArnyDaHamsta/games:${{ matrix.game }}
+            ghcr.io/arnydahamsta/games:${{ matrix.game }}
