@@ -37,4 +37,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/arnydahamsta/yolks:${{ matrix.oses }}
+            ghcr.io/boppinluna/yolks:${{ matrix.oses }}
